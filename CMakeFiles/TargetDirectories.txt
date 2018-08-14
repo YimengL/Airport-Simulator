@@ -1,0 +1,3 @@
+/Users/yimengli/Dropbox/job Hunting/airportsimulator-yimengli/CMakeFiles/rebuild_cache.dir
+/Users/yimengli/Dropbox/job Hunting/airportsimulator-yimengli/CMakeFiles/edit_cache.dir
+/Users/yimengli/Dropbox/job Hunting/airportsimulator-yimengli/CMakeFiles/AirportSimulator.dir

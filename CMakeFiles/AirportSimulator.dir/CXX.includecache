@@ -1,0 +1,70 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/yimengli/Dropbox/job Hunting/airportsimulator-yimengli/airport.cpp
+airport.h
+/Users/yimengli/Dropbox/job Hunting/airportsimulator-yimengli/airport.h
+
+/Users/yimengli/Dropbox/job Hunting/airportsimulator-yimengli/airport.h
+vector
+-
+unordered_map
+-
+string
+-
+future
+-
+mutex
+-
+runway.h
+/Users/yimengli/Dropbox/job Hunting/airportsimulator-yimengli/runway.h
+parking_stand.h
+/Users/yimengli/Dropbox/job Hunting/airportsimulator-yimengli/parking_stand.h
+tokens.h
+/Users/yimengli/Dropbox/job Hunting/airportsimulator-yimengli/tokens.h
+
+/Users/yimengli/Dropbox/job Hunting/airportsimulator-yimengli/main.cpp
+iostream
+-
+ctime
+-
+cassert
+-
+parking_stand.h
+/Users/yimengli/Dropbox/job Hunting/airportsimulator-yimengli/parking_stand.h
+runway.h
+/Users/yimengli/Dropbox/job Hunting/airportsimulator-yimengli/runway.h
+airport.h
+/Users/yimengli/Dropbox/job Hunting/airportsimulator-yimengli/airport.h
+
+/Users/yimengli/Dropbox/job Hunting/airportsimulator-yimengli/parking_stand.cpp
+parking_stand.h
+/Users/yimengli/Dropbox/job Hunting/airportsimulator-yimengli/parking_stand.h
+
+/Users/yimengli/Dropbox/job Hunting/airportsimulator-yimengli/parking_stand.h
+string
+-
+mutex
+-
+
+/Users/yimengli/Dropbox/job Hunting/airportsimulator-yimengli/runway.cpp
+runway.h
+/Users/yimengli/Dropbox/job Hunting/airportsimulator-yimengli/runway.h
+
+/Users/yimengli/Dropbox/job Hunting/airportsimulator-yimengli/runway.h
+string
+-
+mutex
+-
+
+/Users/yimengli/Dropbox/job Hunting/airportsimulator-yimengli/tokens.h
+string
+-
+chrono
+-
+

@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++   -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/AirportSimulator.dir/main.cpp.o CMakeFiles/AirportSimulator.dir/parking_stand.cpp.o CMakeFiles/AirportSimulator.dir/runway.cpp.o CMakeFiles/AirportSimulator.dir/airport.cpp.o  -o AirportSimulator 
